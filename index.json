@@ -1,0 +1,15 @@
+{
+  "name": "Nintendo Direct",
+  "author": "Monstre",
+  "parental": "true",
+  "image": "https://raw.githubusercontent.com/Monstre6/ND/main/logo.jpg",
+  "url": "https://raw.githubusercontent.com/Monstre6/ND/main/index.json",
+  "info": "Nintendo Direct",
+  "groups": [
+    {
+      "name": "Nintendo Direct (9/06/2026)",
+      "image": "https://raw.githubusercontent.com/Monstre6/ND/main/logo.jpg",
+      "url": "https://raw.githubusercontent.com/Monstre6/ND/main/ND.m3u"
+    }
+  ]
+}
